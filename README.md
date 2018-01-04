@@ -17,3 +17,9 @@ The code of this repo focus on how to monitor Flink Job and alert them.
 | OverviewActor      | /overview      |   akka.OverviewActor |
 | JobsActor | /jobs      |    akka.JobsActor |
 | JobExceptionActor | /jobs/jobID/exceptions      |    akka.JobExceptionActor |
+
+## TODO
+list as below
+- [ ] Alert Module
+- [ ] More API supported
+- [ ] More Flink version supported
